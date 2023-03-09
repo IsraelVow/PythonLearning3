@@ -10,6 +10,6 @@ B = ["a", "b", "c"]
 print(B[1:])
 
 #WHen the : is in front of the number it denotes give me everything after the numbers specified
-#if i say 
+#if i say ....
 #print(B[2:])
 #it will return only ["c"] in the list
