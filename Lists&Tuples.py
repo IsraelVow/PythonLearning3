@@ -5,7 +5,7 @@
 
 #find the result of B[1:]
 
-B = ["a", "b", "c"]
+B = ["a", "b", "c", "d"]
 
 print(B[1:])
 
